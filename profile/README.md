@@ -23,7 +23,7 @@ Siempre estamos explorando nuevas tecnologías para brindar las mejores solucion
 
 | Proyecto        | Descripción                                                  | Tecnologías              |
 |----------------|--------------------------------------------------------------|--------------------------|
-| **Euphoria Agenda** | Agenda digital para gestión de citas, empleados, recordatorios automatizados en WhatsApp. | VueJS, TypeScript, PHP Laravel, MySQL, Docker |
+| **Tiven** | Agenda digital para gestión de citas, empleados, recordatorios automatizados en WhatsApp. | VueJS, TypeScript, PHP Laravel, MySQL, Docker |
 | **Hecho en Casa** | Sistema de automatización de pedidos para repostería. | CSS, JavaScript, PHP Laravel, MySQL, Docker |
 | **Lidxi** | Guante inteligente traductor de señas a voz.          | Arduino, C, Python Flask, Docker   |
 | **Control Escolar** | Sistema de gestión académica para escuelas locales          | Arduino, C, PHP Laravel |
