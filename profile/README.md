@@ -23,7 +23,8 @@ Siempre estamos explorando nuevas tecnologías para brindar las mejores solucion
 
 | Proyecto        | Descripción                                                  | Tecnologías              |
 |----------------|--------------------------------------------------------------|--------------------------|
-| **Tiven** | Agenda digital para gestión de citas, empleados, recordatorios automatizados en WhatsApp. | VueJS, TypeScript, PHP Laravel, MySQL, Docker |
+| **Tiven** | Software de gestión para salones de belleza | Gestión de citas, empleados, recordatorios automatizados en WhatsApp, inventario y ventas. | VueJS, TypeScript, PHP Laravel, MySQL, Docker |
+| **Kofinet** | Software de escritorio - Punto de venta para cafeterías. | Tauri | Nuxt 4 | VueJS, TypeScript, Rust |
 | **Hecho en Casa** | Sistema de automatización de pedidos para repostería. | CSS, JavaScript, PHP Laravel, MySQL, Docker |
 | **Lidxi** | Guante inteligente traductor de señas a voz.          | Arduino, C, Python Flask, Docker   |
 | **Control Escolar** | Sistema de gestión académica para escuelas locales          | Arduino, C, PHP Laravel |
