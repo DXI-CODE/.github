@@ -23,7 +23,7 @@ Siempre estamos explorando nuevas tecnologías para brindar las mejores solucion
 
 | Proyecto        | Descripción                                                  | Tecnologías              |
 |----------------|--------------------------------------------------------------|--------------------------|
-| **Tiven** | Software de gestión para salones de belleza | Gestión de citas, empleados, recordatorios automatizados en WhatsApp, inventario y ventas. | VueJS, TypeScript, PHP Laravel, MySQL, Docker |
+| **Tiven** | Software de gestión para salones de belleza | VueJS, TypeScript, PHP Laravel, MySQL, Docker |
 | **Kofinet** | Software de escritorio - Punto de venta para cafeterías. | Tauri, Nuxt 4, VueJS, TypeScript, Rust |
 | **Hecho en Casa** | Sistema de automatización de pedidos para repostería. | CSS, JavaScript, PHP Laravel, MySQL, Docker |
 <!-- | **Lidxi** | Guante inteligente traductor de señas a voz.          | Arduino, C, Python Flask, Docker   |
