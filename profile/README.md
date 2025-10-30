@@ -26,10 +26,10 @@ Siempre estamos explorando nuevas tecnologías para brindar las mejores solucion
 | **Tiven** | Software de gestión para salones de belleza | Gestión de citas, empleados, recordatorios automatizados en WhatsApp, inventario y ventas. | VueJS, TypeScript, PHP Laravel, MySQL, Docker |
 | **Kofinet** | Software de escritorio - Punto de venta para cafeterías. | Tauri, Nuxt 4, VueJS, TypeScript, Rust |
 | **Hecho en Casa** | Sistema de automatización de pedidos para repostería. | CSS, JavaScript, PHP Laravel, MySQL, Docker |
-| **Lidxi** | Guante inteligente traductor de señas a voz.          | Arduino, C, Python Flask, Docker   |
+<!-- | **Lidxi** | Guante inteligente traductor de señas a voz.          | Arduino, C, Python Flask, Docker   |
 | **Control Escolar** | Sistema de gestión académica para escuelas locales          | Arduino, C, PHP Laravel |
 | **Calculadora YBOYS** | Sitio web para aprendizaje de métodos númericos | CSS, JavaScript, Python Flask |
-
+-->
 ---
 
 ## 🤝 Colabora con nosotros
