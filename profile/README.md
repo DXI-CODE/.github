@@ -11,7 +11,7 @@ Paneles administrativos, gestión de citas, reportes y más. También ofrecemos 
 Nuestro stack principal incluye:
 
 - **Frontend**: CSS, JavaScript, Vue, Nuxt, Astro
-- **Backend**: PHP, Laravel
+- **Backend**: PHP, Laravel, Rust
 - **Bases de datos**: MySQL, PostgreSQL
 - **Contenedores**: Docker
 
