@@ -1,4 +1,4 @@
-# DxiCode 🚀
+# DxiCode 
 
 **Soluciones digitales pensadas para crecer contigo.**
 
@@ -8,7 +8,7 @@ Construimos desde sistemas simples hasta plataformas más completas, siempre pri
 
 ---
 
-## 🧩 Qué hacemos
+## Qué hacemos
 
 - Sistemas de gestión y paneles administrativos  
 - Automatización de procesos y flujos de trabajo  
@@ -21,7 +21,7 @@ Nuestro objetivo es crear software que **sí se use** y que pueda evolucionar ju
 
 ---
 
-## 🛠️ Stack Tecnológico
+## Stack Tecnológico
 
 Trabajamos con un stack moderno y flexible, elegido según las necesidades de cada solución:
 
@@ -34,7 +34,7 @@ Siempre estamos explorando nuevas tecnologías para desarrollar soluciones más 
 
 ---
 
-## 📂 Proyectos destacados
+## Proyectos destacados
 
 | Proyecto | Descripción | Tecnologías |
 |--------|-------------|-------------|
@@ -50,7 +50,7 @@ Siempre estamos explorando nuevas tecnologías para desarrollar soluciones más 
 
 ---
 
-## 🤝 Colabora con nosotros
+## Colabora con nosotros
 
 ¿Tienes una idea, un proyecto o te gustaría colaborar con nosotros?  
 Estamos abiertos a nuevas propuestas, alianzas y retos.
